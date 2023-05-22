@@ -27,5 +27,5 @@ WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 ```
 ---
-Link to deployed application here: ..
+Link to deployed application here: ...
 ![image](https://github.com/Brusomaroff/PWA-Text-Editor/assets/120063382/c4207bdb-b462-4d0b-9a0b-892adad00d42)
